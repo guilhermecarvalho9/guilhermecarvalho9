@@ -1,4 +1,4 @@
-#👨‍💻 Guilherme Carvalho | Software Developer#
+# 👨‍💻 Guilherme Carvalho | Software Developer#
 
 ##About Me##
 As a dedicated and self-taught Web Developer, I bring a passion for creating innovative, efficient, and user-friendly solutions that enhance user experiences. With a strong foundation in front-end development and a disciplined approach to problem-solving, I thrive on contributing to dynamic projects that make an impact. My commitment to lifelong learning drives me to continually refine my skills and explore cutting-edge technologies.
