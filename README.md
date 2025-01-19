@@ -1,5 +1,4 @@
-👨‍💻 Guilherme Carvalho | Front-End Developer
-🌐 LinkedIn | 📂 GitHub
+👨‍💻 Guilherme Carvalho | Software Developer
 
 About Me
 As a dedicated and self-taught Web Developer, I bring a passion for creating innovative, efficient, and user-friendly solutions that enhance user experiences. With a strong foundation in front-end development and a disciplined approach to problem-solving, I thrive on contributing to dynamic projects that make an impact. My commitment to lifelong learning drives me to continually refine my skills and explore cutting-edge technologies.
@@ -16,8 +15,7 @@ EFOMM, Rio de Janeiro, Brazil (2015 – 2020)
 ---
 
 🧰 Languages I Speak (to Computers)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)  
